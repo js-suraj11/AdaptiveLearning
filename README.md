@@ -2,9 +2,6 @@
 
 
 
-
-Tested on: Python 3.8.5
-
 # Adaptive Learning App
 This is  an platform for teaching concepts to forgetful learners using adaptive teaching policy.[1] 
 
@@ -18,6 +15,7 @@ $ pip install -r requirements.txt
 <pre>
 $ python app.py
 </pre>
+Note: This code is tested on Python 3.8.5
 
 
 
