@@ -1,5 +1,5 @@
 # Adaptive Learning App
-This is  an platform for teaching concepts to forgetful learners using adaptive teaching policy.[1] 
+This is a python based app for teaching concepts to forgetful learners using adaptive teaching policy [1]. 
 
 # Install the dependencies and Run 
 <pre>
@@ -22,4 +22,3 @@ Note: This code is tested on Python 3.8.5
 [1] Hunziker, Anette, et al. "Teaching multiple concepts to a forgetful learner." Advances in neural information processing systems 32 (2019).
 </pre>
 
-## Citing
