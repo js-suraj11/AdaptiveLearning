@@ -17,8 +17,8 @@ This is  an platform for teaching concepts to forgetful learners using adaptive 
 
 
 ## References
-<pre>
+'''
 [1] Hunziker, Anette, et al. "Teaching multiple concepts to a forgetful learner." Advances in neural information processing systems 32 (2019).
-</pre>
+'''
 
 ## Citing
