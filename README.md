@@ -1,8 +1,4 @@
 # Adaptive Learning App
-
-
-
-# Adaptive Learning App
 This is  an platform for teaching concepts to forgetful learners using adaptive teaching policy.[1] 
 
 # Install the dependencies and Run 
